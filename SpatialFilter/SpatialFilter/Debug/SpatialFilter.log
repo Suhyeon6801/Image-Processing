@@ -1,0 +1,8 @@
+﻿  Filter.cpp
+c:\users\user\desktop\학교\2018-2\디지털영상처리\hw2\spatialfilter\spatialfilter\filter.h(157): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\학교\2018-2\디지털영상처리\hw2\spatialfilter\spatialfilter\filter.h(315): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\학교\2018-2\디지털영상처리\hw2\spatialfilter\spatialfilter\filter.h(346): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\학교\2018-2\디지털영상처리\hw2\spatialfilter\spatialfilter\filter.h(381): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\학교\2018-2\디지털영상처리\hw2\spatialfilter\spatialfilter\filter.h(411): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\학교\2018-2\디지털영상처리\hw2\spatialfilter\spatialfilter\filter.cpp(4): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  SpatialFilter.vcxproj -> C:\Users\user\Desktop\학교\2018-2\디지털영상처리\HW2\SpatialFilter\Debug\SpatialFilter.exe

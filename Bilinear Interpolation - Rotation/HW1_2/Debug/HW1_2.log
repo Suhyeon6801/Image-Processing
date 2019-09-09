@@ -1,0 +1,8 @@
+﻿  hw2.cpp
+c:\users\user\desktop\학교\2018-2\디지털영상처리\hw1\hw1_2\hw1_2\hw2.h(79): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\학교\2018-2\디지털영상처리\hw1\hw1_2\hw1_2\hw2.h(80): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\학교\2018-2\디지털영상처리\hw1\hw1_2\hw1_2\hw2.h(110): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\학교\2018-2\디지털영상처리\hw1\hw1_2\hw1_2\hw2.h(111): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\학교\2018-2\디지털영상처리\hw1\hw1_2\hw1_2\hw2.h(140): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\학교\2018-2\디지털영상처리\hw1\hw1_2\hw1_2\hw2.cpp(4): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  HW1_2.vcxproj -> C:\Users\user\Desktop\학교\2018-2\디지털영상처리\HW1\HW1_2\Debug\HW1_2.exe
